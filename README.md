@@ -846,6 +846,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - Every business day hints about most often C/C++ mistakes and ways to solve them from PVS-Studio Team.
+* [C++ tutorial] (https://hackr.io/tutorials/learn-c-plus-plus) - A consolidated list of the best user rated online C++ tutorials available.
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
